@@ -1,7 +1,7 @@
 # Dairy Templates
 Language: Chinese.
 For daily journals, etc. 
-Compatible to be opened by Obsidian.
+Compatible to be opened using Obsidian.
 
 
 # {{date}}
